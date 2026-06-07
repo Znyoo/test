@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 78843849ae4e6624788b9f43ce99603d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308882
+  packageName: Stylised Zombie
+  packageVersion: 1.0
+  assetPath: Assets/GreyratsLab/Stylised Zombie/Animations/Zombie.controller
+  uploadId: 726903

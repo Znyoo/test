@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e746974ff830766498a850516b165b77
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308882
+  packageName: Stylised Zombie
+  packageVersion: 1.0
+  assetPath: Assets/GreyratsLab/Stylised Zombie/Animations/0-idle_agressive.anim
+  uploadId: 726903

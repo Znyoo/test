@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - EchoWave
+  - Echo
   layers:
   - Default
   - TransparentFX
